@@ -1,0 +1,7 @@
+{
+  "logLevel": "",
+  "kafkaConnection": [
+    "localhost:9092"
+  ],
+  "numberOfThreads": 4
+}
